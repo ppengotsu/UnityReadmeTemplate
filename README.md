@@ -1,2 +1,4 @@
 # UnityReadmeTemplate
-Unityプロジェクト用のReadMeのテンプレート
+Unityプロジェクト用のReadMeのテンプレートです。
+
+
