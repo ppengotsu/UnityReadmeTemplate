@@ -6,6 +6,6 @@ Unityプロジェクト用のReadMeのテンプレートです。
 README_TEMPLATE.md
 
 ## サンプル
-README_EXSAMPLE_JA.md
+README_SAMPLE_JA.md
 
-README_EXSAMPLE_EN.md
+README_SAMPLE_EN.md
