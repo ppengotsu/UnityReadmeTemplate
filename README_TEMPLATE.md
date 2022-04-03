@@ -26,6 +26,16 @@
 |  WebGL   |         |       |       |
 
 
+# Git　Branch
+| Branch Name | Purpose | Memo  | Memo2 |
+| :---------: | :-----: | :---: | :---: |
+|   master    |         |       |       |
+|   develop   |         |       |       |
+|  feature/   |         |       |       |
+|             |         |       |       |
+|             |         |       |       |
+|             |         |       |       |
+|             |         |       |       |
 
 # Setup
 
@@ -37,6 +47,8 @@
 6. :
 7. :
 
+
+
 # Useful Function
 
 * Function1
@@ -47,15 +59,16 @@
 
 # Use Lib
 
-| Name  | Version | License | Data URL | Memo1 | Memo2 |
-| :---: | :-----: | :-----: | :------: | :---: | :---: |
-|       |         |         |          |       |       |
-|       |         |         |          |       |       |
-|       |         |         |          |       |       |
-|       |         |         |          |       |       |
-|       |         |         |          |       |       |
-|       |         |         |          |       |       |
-|       |         |         |          |       |       |
+
+| Name  | Version | License | Data URL | Purpose of usage | Memo1 | Memo2 |
+| :---: | :-----: | :-----: | :------: | :--------------: | :---: | :---: |
+|       |         |         |          |                  |       |       |
+|       |         |         |          |                  |       |       |
+|       |         |         |          |                  |       |       |
+|       |         |         |          |                  |       |       |
+|       |         |         |          |                  |       |       |
+|       |         |         |          |                  |       |       |
+|       |         |         |          |                  |       |       |
 
 
 
