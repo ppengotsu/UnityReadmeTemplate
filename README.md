@@ -2,10 +2,10 @@
 Unityプロジェクト用のReadMeのテンプレートです。
 
 
-テンプレート
+## テンプレート
 README_TEMPLATE.md
 
-サンプル
+## サンプル
 README_EXSAMPLE_JA.md
 
 README_EXSAMPLE_EN.md
